@@ -8,3 +8,7 @@ void isPrime(){
     else printf("The number is not Prime");
     return;
 }
+
+int main(){
+    isPrime();
+}
